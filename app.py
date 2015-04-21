@@ -6,4 +6,4 @@ app = Flask(__name__, static_folder='.', static_url_path='')
 def home():
   return send_file('./index.html')
 
-app.run()
+app.run(port=80)
