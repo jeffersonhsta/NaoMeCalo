@@ -1,6 +1,5 @@
 venv
 *.pyc
+*.swp
 .DS_Store
 Thumbs.db
-venv
-*.pyc
